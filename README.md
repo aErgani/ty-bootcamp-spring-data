@@ -1,5 +1,7 @@
-# Made Customer in Profile nullable to prevent error
+# Trendyol Spring Data Homework
 
-# Implemented a Controller that supports basic get/add/update operations for Customer
+## Made Customer in Profile nullable to prevent error
 
-# Implemented a logic for adding to basket (untested due to poor time management)
+## Implemented a Controller that supports basic get/add/update operations for Customer
+
+## Implemented a logic for adding to basket (untested due to poor time management)
